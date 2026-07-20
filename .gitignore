@@ -1,0 +1,12 @@
+# Build de devkitPro
+build/
+*.nro
+*.nacp
+*.elf
+*.map
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
